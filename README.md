@@ -3,7 +3,7 @@
 O objetivo deste projeto exemplo é apresentar uma FC que criei para formatar o tempo corrente dos temporizadores da Siemens, no padrão HH:MM:SS.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/ezequielsd/GestaoFrota/blob/main/Screenshot2024-08-29091732.png)
+![](Screenshot2024-08-29091732.png)
 
 
 Elaborado por Ezequiel da Silva Daniel
