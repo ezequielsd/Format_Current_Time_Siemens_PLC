@@ -48,10 +48,10 @@ Adicione na aparencia deste FIELD uma unidade, ":" como divisor.
 Neste projeto você poderá observar como foi feito a parte da IHM.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/ezequielsd/GestaoFrota/blob/main/Screenshot2024-08-29101240.png)
+![](Screenshot2024-08-29101240.png)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/ezequielsd/GestaoFrota/blob/main/Screenshot2024-08-29101349.png)
+![](Screenshot2024-08-29101349.png)
 
 
 
