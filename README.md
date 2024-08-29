@@ -54,7 +54,7 @@ Neste projeto você poderá observar como foi feito a parte da IHM.
 ![](Screenshot2024-08-29101349.png)
 
 
-[![Watch the video](Screenshot2024-08-29103444)](https://youtu.be/eYUyFtUYFxM)
+[![Watch the video](Screenshot2024-08-29103444.png)](https://youtu.be/eYUyFtUYFxM)
 
 
 ## Pacotes de terceiro
